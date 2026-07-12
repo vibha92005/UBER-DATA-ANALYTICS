@@ -27,7 +27,7 @@ The project demonstrates how machine learning can support intelligent transporta
 ## System Architecture
 
 <p align="center">
-<img src="images/system_architecture.png" width="900">
+<img src="images/architecture_diagram.png" width="900">
 </p>
 
 The architecture illustrates the complete machine learning pipeline from raw Uber trip records to predictive analytics and business insights.
