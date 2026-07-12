@@ -27,7 +27,7 @@ The project demonstrates how machine learning can support intelligent transporta
 ## System Architecture
 
 <p align="center">
-<img src="images/architecture.png" width="900">
+<img src="images/system_architecture.png" width="900">
 </p>
 
 The architecture illustrates the complete machine learning pipeline from raw Uber trip records to predictive analytics and business insights.
@@ -37,7 +37,7 @@ The architecture illustrates the complete machine learning pipeline from raw Ube
 ## Project Workflow
 
 <p align="center">
-<img src="images/workflow.png" width="900">
+<img src="images/workflow_diagram.png" width="900">
 </p>
 
 The workflow includes:
@@ -59,9 +59,9 @@ The workflow includes:
 ```text
 Uber-Demand-Forecasting/
 │
-├── data/
-│   ├── raw_dataset.csv
-│   └── processed_dataset.csv
+├── uber.csv
+│   
+│   
 │
 ├── notebooks/
 │   └── Uber_Demand_Forecasting.ipynb
