@@ -143,7 +143,7 @@ The analysis includes:
 Random Forest Regression was used to predict ride demand across different time slots. The predicted values closely follow the actual demand, demonstrating the model's capability to capture temporal demand patterns.
 
 <p align="center">
-<img src="images/demand_forecasting.png" width="900">
+<img src="images/demand_forecast.png" width="900">
 </p>
 
 ---
